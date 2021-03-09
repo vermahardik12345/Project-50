@@ -1,0 +1,53 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+  
+}
+body{
+    background-color: whitesmoke;
+}
+.text{
+   
+    color:teal;
+    margin-left: 0px;
+    justify-content: space-between;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: tomato;
+}
+.heading{
+    color: black;
+    margin-left: 550px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+}
+.name{
+    color:teal;
+    display: flex;
+    margin-left: 650px;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+     font-family: fantasy;
+     background-size: 50px;
+     background-color:greenyellow;
+
+}
